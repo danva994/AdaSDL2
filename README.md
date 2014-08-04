@@ -27,7 +27,9 @@ danva994@student.liu.se
 State of the binding:
 ---------------------
 [   ] Means going to be bound eventually.
+
 [ - ] Means not planed to be bound.
+
 [ X ] Means complete binding or very few things missing.
 
 [ X ] SDL.h.

@@ -1,8 +1,8 @@
--- AdaSDL2 is a thin Ada binding to the popular C libraries SDL2,
--- SDL2_image, SDL2_ttf and SDL2_mixer.
--- To use the binding you will need a compiler with Ada 2005 support.
--- I have tested some parts of the binding with GNAT GPL 2014 and
--- FSF GNAT 4.6.4.
+AdaSDL2 is a thin Ada binding to the popular C libraries SDL2,
+SDL2_image, SDL2_ttf and SDL2_mixer.
+To use the binding you will need a compiler with Ada 2005 support.
+I have tested some parts of the binding with GNAT GPL 2014 and
+FSF GNAT 4.6.4.
 
 Last update:
 ------------

@@ -7,6 +7,10 @@ To use the binding you will need a compiler with Ada 2005 support.
 I have tested some parts of the binding with GNAT GPL 2014 and
 FSF GNAT 4.6.4.
 
+License:
+--------
+For the Ada binding the license is Public Domain.
+
 Last update:
 ------------
 2014-08-04.
@@ -22,7 +26,7 @@ danva994@student.liu.se
 
 State of the binding:
 ---------------------
-[   ] Means going to be bound eventually
+[   ] Means going to be bound eventually\n
 [ - ] Means not planed to be bound
 [ X ] Means complete binding or very few things missing
 

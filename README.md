@@ -26,37 +26,37 @@ danva994@student.liu.se
 
 State of the binding:
 ---------------------
-[   ] Means going to be bound eventually\n
-[ - ] Means not planed to be bound
-[ X ] Means complete binding or very few things missing
+[   ] Means going to be bound eventually.
+[ - ] Means not planed to be bound.
+[ X ] Means complete binding or very few things missing.
 
-[ X ] SDL.h
-[ - ] SDL_assert.h
-[ - ] SDL_atomic.h
-[ X ] SDL_audio.h
-[ - ] SDL_bits.h
-[ X ] SDL_blendmode.h
-[ X ] SDL_clipboard.h
-[ - ] SDL_config.h
-[ X ] SDL_cpuinfo.h
-[ - ] SDL_endian.h
-[ X ] SDL_error.h
-[ X ] SDL_events.h
-[ X ] SDL_filesystem.h
-[ X ] SDL_gamecontroller.h
-[ X ] SDL_gesture.h
-[ X ] SDL_haptic.h
-[ X ] SDL_hints.h
-[ X ] SDL_joystick.h
-[ X ] SDL_keyboard.h
-[ X ] SDL_keycode.h
-[ X ] SDL_loadso.h
-[ X ] SDL_log.h
-[ - ] SDL_main.h
-[ X ] SDL_messagebox.h
-[ X ] SDL_mouse.h
-[ - ] SDL_mutex.h
-[ - ] SDL_name.h
+[ X ] SDL.h.
+[ - ] SDL_assert.h.
+[ - ] SDL_atomic.h.
+[ X ] SDL_audio.h.
+[ - ] SDL_bits.h.
+[ X ] SDL_blendmode.h.
+[ X ] SDL_clipboard.h.
+[ - ] SDL_config.h.
+[ X ] SDL_cpuinfo.h.
+[ - ] SDL_endian.h.
+[ X ] SDL_error.h.
+[ X ] SDL_events.h.
+[ X ] SDL_filesystem.h.
+[ X ] SDL_gamecontroller.h.
+[ X ] SDL_gesture.h.
+[ X ] SDL_haptic.h.
+[ X ] SDL_hints.h.
+[ X ] SDL_joystick.h.
+[ X ] SDL_keyboard.h.
+[ X ] SDL_keycode.h.
+[ X ] SDL_loadso.h.
+[ X ] SDL_log.h.
+[ - ] SDL_main.h.
+[ X ] SDL_messagebox.h.
+[ X ] SDL_mouse.h.
+[ - ] SDL_mutex.h.
+[ - ] SDL_name.h.
 [ - ] SDL_opengl.h
 [ - ] SDL_opengles.h
 [ - ] SDL_opengles2.h
